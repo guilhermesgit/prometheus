@@ -24,7 +24,7 @@ Para instalar os 3 containers é necessário rodar o docker-compose
   docker-compose ps e, se os containers estiverem run, acessar os containers
   
   prometheus: ipaddress:9090
-  cadvisor:   ipaddress:8080
+  cadvisor:   ipaddress:8888
 ```
 
 
