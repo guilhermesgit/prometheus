@@ -33,9 +33,9 @@ Para instalar os 3 containers é necessário rodar o docker-compose
  - [Referência prometheus](https://prometheus.io/docs/guides/cadvisor/)
 
 
-## Authors
+## Autor
 
-- [@guilhermesgit](https://www.github.com/guilhermesgit)
+- [@guilhermesgit](https://www.linkedin.com/in/guilherme-s-69ab8a146/)
 
 
 ## Documentação
